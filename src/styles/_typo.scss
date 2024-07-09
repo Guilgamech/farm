@@ -1,0 +1,6 @@
+.underline-link{
+  @apply text-[#4d3299] fw-[500] underline cursor-pointer;
+}
+.btn-default{
+  @apply bg-[#4d3299] hover:opacity-90 rounded w-full text-[18px] text-center text-white pt-[15px] pb-[17px] font-roboto;
+}
